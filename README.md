@@ -1,6 +1,6 @@
 # pharma-sales-data-analysis-and-forecasting
 ## Analysis Pharma data sales by using 
-###PowerBI 
+### PowerBI 
 ### Excel with Power Query
 ![1](https://user-images.githubusercontent.com/72976111/181901901-62951592-983b-4c3b-9cd2-316d6ab4b8d1.png)
 ![6](https://user-images.githubusercontent.com/72976111/181901863-8f034105-f038-4ab2-988a-59bc653ea35a.png)
